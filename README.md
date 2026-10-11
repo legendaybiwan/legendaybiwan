@@ -4,7 +4,7 @@ Hi there! I'm **[Biwan Vaibhav]** 👋
 
 - ⚡ Engineering Undergraduate @ [IIIT Jablpur]
 - 🛠️ Passionate about crafting high-performance systems and writing clean, optimized logic.
-- 🚀 Specialized in [complex algorithmic problem solving / full-stack architecture / system engineering — edit as needed].
+- 🚀 Specialized in [complex algorithmic problem solving / full-stack architecture / system engineering].
 - 🧠 My sweet spot? **DSA + Full-Stack + Systems Design**, stitched together by an obsession over clean logic and fast user value.
 - 💬 I don't just code. I discuss, debate, and ship — fast.
 - 🌍 See the story unfold 👉 [My Portfolio]
